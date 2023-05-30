@@ -1,5 +1,5 @@
 # flappy-bird-clone
-Using Js I have created this gaame 2 years Ago....
+Using Js I have created this game 2 years Ago....
 #
 https://confusedbird.netlify.app/
 
